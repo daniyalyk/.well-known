@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.daniyalyk.cv.base",
+    "sha256_cert_fingerprints":
+    ["96:3E:19:3C:70:69:79:06:D2:16:7A:9C:C6:88:69:68:31:7E:BB:70:BA:22:C3:E4:7F:75:3F:50:52:35:9F:97"]
+  }
+}]
